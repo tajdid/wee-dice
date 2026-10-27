@@ -1,0 +1,14 @@
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.ipa
+*.dSYM/
+*.mobileprovision
+*.p12
+*.cer
+/Phase*.png
+/Phase*.mp4
+/*-verification.txt
+/Result-reveal.mp4
